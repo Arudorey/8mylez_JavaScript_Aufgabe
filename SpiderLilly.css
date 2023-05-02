@@ -1,0 +1,25 @@
+.headlineStyle {
+  font-size: 32px;
+}
+
+.inputStyle {
+  font-size: 18px;
+  padding: 10px 10px;
+}
+
+.buttonStyle {
+  font-size: 20px;
+  background: teal;
+  color: white;
+  padding: 10px 50px;
+  margin-left: 10px;
+}
+
+.priceTag {
+  font-size: 32px;
+  float: right;
+}
+
+.imgWrap {
+  width: 960px;
+}
